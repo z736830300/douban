@@ -1,6 +1,6 @@
 <template>
   <div class="pages-view">
-    <h1>pages-view</h1>
+    adsfa
   </div>
 </template>
 <script>
